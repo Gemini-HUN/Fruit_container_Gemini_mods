@@ -7,4 +7,5 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 Fruit pack for several planet mod
 
 ### Special thanks
-[@A-xesey](https://github.com/A-xesey) for restore prototype fruits
+* [@DraptorRonin](https://github.com/DraptorRonin) for let me change some of their models to fruits
+* [@A-xesey](https://github.com/A-xesey) for restore prototype fruits
