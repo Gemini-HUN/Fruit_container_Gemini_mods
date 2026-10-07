@@ -5,3 +5,6 @@
 I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing Spore mods. Please read the installation instructions first.
 
 Fruit pack for several planet mod
+
+### Special thanks
+[@A-xesey](https://github.com/A-xesey) for restore prototype fruits
