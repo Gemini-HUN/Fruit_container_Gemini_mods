@@ -8,7 +8,7 @@ I created this mod for pack fruit templates and avoid the annoying planet mod up
 
 ### What this mod do?
 * Overwrite retail fruit to the better model version
-* Every fruit use the better model version too
+* **Every fruit** use the better model version too
 * Unused fruits from retail game
 * Prototype fruits from 2008feb version by @A-xesey
 * DarkSpore style fruits from @DraptorRonin
