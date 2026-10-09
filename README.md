@@ -4,7 +4,7 @@
 ## How to install mods?
 I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing Spore mods. Please read the installation instructions first.
 
-I created this mod for pack fruit templates and avoid the annoying planet mod updates
+I created this mod for pack fruit templates and avoid the annoying planet mod updates. <br>
 What this mod do?
 * Overwrite retail fruit to the better model version
 * Every fruit use the better model version too
